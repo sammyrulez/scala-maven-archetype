@@ -4,4 +4,4 @@ services:
 - redis-server
 env:
   global:
-    secure: ejCCCv9FmstaTPuAtFH0dKgXqJDiR1W6QRlY5LFxAweqEX3OqiqMGHN820kFIdRwGpIv9zjU/0aYG731yAqH/CKcRmIe23ECsN4h4AgV0gLbKAs0yYFR8TkvIjfIycRLAxu/3FclBuDkowYn1zad1dLX4X5aGcg5GYRfejkZDtc=
+    secure: #COVERALL_TOKEN=token secured via travis cli
